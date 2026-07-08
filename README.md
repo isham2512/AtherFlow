@@ -6,7 +6,7 @@ AetherFlow is a web-based media player designed to stream audio and video conten
 The application features a responsive dark/light theme, local storage persistence, queue management, and a clean user interface.
 
 ---
-# Live Demo
+## Live Demo
 
 https://ather-flow.vercel.app/
 
